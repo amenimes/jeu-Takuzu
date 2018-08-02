@@ -1,0 +1,7 @@
+Remplir la grille avec des chiffre 0 ou 1 de maniére à ce que chaque ligne et chaque colonne
+contienne autant de 0 que de 1.
+On ne peut pas :
+- Placer plus de deux 0 ou deux 1  l'un à côté de l'autre.
+- Avoir 2 lignes ou deux colonnes identiques. 
+Lorsque une ligne ou une colone est invalide la premiere case qui detecte la faute est rouge.
+Donc il faut que tu le corrige avant de continuer.
